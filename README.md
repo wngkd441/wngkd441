@@ -21,7 +21,7 @@
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=wngkd441@gmail.com)](wngkd441@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wngkd441@gmail.com)](mailto:wngkd441@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wngkd441)](https://github.com/wngkd441)
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
