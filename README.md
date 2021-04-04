@@ -23,7 +23,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wngkd441)](https://github.com/wngkd441)
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![AI/ML Badge](https://img.shields.io/badge/AI / ML-FB7A3B?style=flat-square&logo=GitBook&logoColor=white) 
+![AI/ML Badge](https://img.shields.io/badge/AI/ML-FB7A3B?style=flat-square&logo=GitBook&logoColor=white) 
 
 </div>
 
