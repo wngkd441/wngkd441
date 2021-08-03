@@ -1,6 +1,3 @@
-[![wngkd441's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngkd441)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # <p align=center>I am a growing developer, but I will make better world!</p>
 
  
@@ -22,7 +19,7 @@
 
 <div align=center>   
 
-
+[![wngkd441's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngkd441)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wngkd441@gmail.com)](mailto:wngkd441@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wngkd441)](https://github.com/wngkd441)
