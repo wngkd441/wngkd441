@@ -1,3 +1,6 @@
+[![wngkd441's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngkd441)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # <p align=center>I am a growing developer, but I will make better world!</p>
 
  
