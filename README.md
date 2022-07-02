@@ -53,6 +53,7 @@
 a {
   // 하이퍼링크의 밑줄 제거
   text-decoration: none;
+  color: black;
   &:focus {
     @extend %tab-focus;
   }
