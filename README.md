@@ -2,7 +2,6 @@
 # This is Hans' Github
 
 - 조항준 Jo HangJoon
-- wngkdroqkf441@gmail.com
 - **새로운 길**을 제시하는 개발자
 - **읽기 쉬운** 개발자
 - **심플한** 개발자
@@ -49,12 +48,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngkdroqkf441&hide=stars&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-a {
-  // 하이퍼링크의 밑줄 제거
-  text-decoration: none;
-  color: black;
-  &:focus {
-    @extend %tab-focus;
-  }
-
