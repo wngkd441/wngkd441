@@ -2,6 +2,7 @@
 # This is Hans' Github
 
 - 조항준 Jo HangJoon
+- Web Frontend Developer
 - **새로운 길**을 제시하는 개발자
 - **읽기 쉬운** 개발자
 - **심플한** 개발자
