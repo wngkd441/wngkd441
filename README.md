@@ -1,5 +1,5 @@
 
-# There is Hans' Github
+# This is Hans' Github
 
 - 조항준 Jo HangJoon
 - wngkdroqkf441@gmail.com
@@ -49,4 +49,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngkdroqkf441&hide=stars&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+a {
+  // 하이퍼링크의 밑줄 제거
+  text-decoration: none;
+  &:focus {
+    @extend %tab-focus;
+  }
 
