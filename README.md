@@ -1,4 +1,3 @@
-<div align=center>
 
 # There is Hans' Github
 
@@ -9,7 +8,7 @@
 - **심플한** 개발자
 - **코드 요리사**
 
-
+<div align=center>
 
 ⚒ TechStack ⚒
 
@@ -25,7 +24,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-</div>
+</div><br>
 
 <div>
 
@@ -33,11 +32,17 @@
 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vues.js-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 
 </div>
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngkdroqkf441&hide=stars&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
